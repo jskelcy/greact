@@ -1,8 +1,6 @@
 package server
 
-import (
-	"greact/server/webpack"
-)
+import "github.com/jskelcy/greact/server/webpack"
 
 // User represents current user session
 type User struct {

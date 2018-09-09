@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"greact/server"
 	"log"
 	"net/http"
 	"path"
+
+	"github.com/jskelcy/greact/server"
 )
 
 var (
